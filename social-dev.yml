@@ -3,7 +3,7 @@ spring:
     name: social
     #自定义链接（别名）
   instance:
-    hostname: Social
+    hostname: social
     # 数据源
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/springcloud?useUnicode=true&characterEncoding=utf-8&useSSL=false
