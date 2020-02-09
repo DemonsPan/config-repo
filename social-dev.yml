@@ -48,3 +48,5 @@ logging:
 CLIENT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+env:
+  name: psj
