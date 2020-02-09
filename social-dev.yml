@@ -44,5 +44,5 @@ CLIENT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 
 girl:
-  name: psj22
-  age: 23
+  name: fzq
+  age: 18
